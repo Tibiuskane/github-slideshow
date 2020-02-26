@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Serve the Emperor today, for tomorrow you maybe dead.
 Use the left arrow to go back!
